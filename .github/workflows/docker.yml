@@ -29,5 +29,5 @@ jobs:
         with:
             context: backend
             push: true
-            tags: stevencchang/4640frontend:latest  # ADJUST WITH YOUR USER NAME
+            tags: stevencchang/4640backend:latest  # ADJUST WITH YOUR USER NAME
       
